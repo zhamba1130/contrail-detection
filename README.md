@@ -8,7 +8,7 @@ This goal of this competition is to help researchers improve the accuracy of the
 ![image](https://github.com/zhamba1130/contrail-detection/assets/58042279/ead492e9-9170-4700-aa43-1b4a5aea948c)
 
 
-##   Test Trained Model
+##   Prediction results
 ![圖片3](https://github.com/zhamba1130/contrail-detection/assets/58042279/e8412f2f-3930-4281-bf29-55914285210f)
 
 
